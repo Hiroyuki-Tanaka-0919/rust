@@ -1,4 +1,4 @@
 #!/bin/sh
 git add -A
-git commit -m "Add ownership (p.103)"
+git commit -m "Chg README.md"
 git push
